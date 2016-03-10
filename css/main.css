@@ -1,0 +1,17 @@
+body {
+    color: #fff;
+    background-color: transparent;
+}
+html { 
+  background: url('https://lh4.googleusercontent.com/-LZ86oQMfe7o/Uv-gM1fa5gI/AAAAAAAAXF8/vt5_vGf5sCU/w1538-h865-no/WoWScrnShot_021414_210724.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+.panel-body {
+    background-color: rgba(245, 245, 245, 0.4);
+}
+.panel {
+    background-color: rgba(245, 245, 245, 0.4);
+}
